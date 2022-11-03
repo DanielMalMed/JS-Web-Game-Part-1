@@ -1,4 +1,4 @@
-//background
+//BONUS background, I could not figure it out for the life of me so i had to check the solution code for the bonus.
 function tile(url, left, bottom, width, height){
     for(let h = 0; h < height; h++){
         for(let w = 0; w < width; w++){
@@ -42,7 +42,6 @@ newImage('assets/pillar.png', 350, 100)
 newImage('assets/pine-tree.png', 450, 200)
 newImage('assets/crate.png', 150, 200)
 newImage('assets/well.png', 500, 425)
-
 
 //items
 newItem('assets/sword.png', 500, 405)
